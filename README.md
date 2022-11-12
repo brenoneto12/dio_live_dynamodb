@@ -1,4 +1,4 @@
-# dio-live-dynamodb
+# dio-Geração Tech Unimed-BH - Ciência de Dados-dynamodb
 Repositório para o live coding do dia 30/09/2021 usado no Geração Tech Unimed-BH - Ciência de Dados Novembro-2022, sobre o Amazon DynamoDB
 
 ### Serviço utilizado
